@@ -1,0 +1,13 @@
+insurer_id,insurer_name,insurer_region,rating
+1,Insurer A,Southern Europe,AA
+2,Insurer B,Benelux,AA-
+3,Insurer C,France,AA-
+4,Insurer D,France,A+
+5,Insurer E,France,AA-
+6,Insurer F,Southern Europe,A
+7,Insurer G,DACH,AA
+8,Insurer H,UK & Ireland,AA-
+9,Insurer I,DACH,AA
+10,Insurer J,UK & Ireland,A
+11,Insurer K,UK & Ireland,A+
+12,Insurer L,UK & Ireland,AA-

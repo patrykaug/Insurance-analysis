@@ -1,0 +1,1501 @@
+insured_id,insured_name,industry,company_size,location_id
+1,Company 0001,Construction,Medium,21
+2,Company 0002,Construction,Small,30
+3,Company 0003,Retail,Small,38
+4,Company 0004,Technology,Large,12
+5,Company 0005,Retail,Small,1
+6,Company 0006,Technology,Medium,29
+7,Company 0007,Logistics,Small,1
+8,Company 0008,Logistics,Large,3
+9,Company 0009,Logistics,Small,40
+10,Company 0010,Technology,Small,35
+11,Company 0011,Professional Services,Large,29
+12,Company 0012,Manufacturing,Large,34
+13,Company 0013,Technology,Small,4
+14,Company 0014,Manufacturing,Medium,4
+15,Company 0015,Technology,Medium,13
+16,Company 0016,Professional Services,Large,1
+17,Company 0017,Technology,Small,36
+18,Company 0018,Professional Services,Medium,3
+19,Company 0019,Construction,Medium,22
+20,Company 0020,Logistics,Medium,35
+21,Company 0021,Construction,Medium,30
+22,Company 0022,Retail,Medium,10
+23,Company 0023,Healthcare,Small,19
+24,Company 0024,Professional Services,Large,22
+25,Company 0025,Retail,Large,31
+26,Company 0026,Healthcare,Medium,18
+27,Company 0027,Retail,Small,12
+28,Company 0028,Healthcare,Small,32
+29,Company 0029,Healthcare,Medium,36
+30,Company 0030,Construction,Small,20
+31,Company 0031,Healthcare,Large,2
+32,Company 0032,Retail,Small,21
+33,Company 0033,Manufacturing,Medium,36
+34,Company 0034,Manufacturing,Large,40
+35,Company 0035,Construction,Small,17
+36,Company 0036,Professional Services,Small,7
+37,Company 0037,Manufacturing,Medium,23
+38,Company 0038,Construction,Medium,34
+39,Company 0039,Logistics,Small,38
+40,Company 0040,Retail,Medium,3
+41,Company 0041,Healthcare,Large,12
+42,Company 0042,Technology,Medium,20
+43,Company 0043,Healthcare,Small,4
+44,Company 0044,Logistics,Small,36
+45,Company 0045,Construction,Small,5
+46,Company 0046,Retail,Small,27
+47,Company 0047,Construction,Small,37
+48,Company 0048,Healthcare,Medium,28
+49,Company 0049,Manufacturing,Small,31
+50,Company 0050,Healthcare,Large,11
+51,Company 0051,Construction,Small,34
+52,Company 0052,Healthcare,Small,17
+53,Company 0053,Logistics,Medium,3
+54,Company 0054,Construction,Large,15
+55,Company 0055,Technology,Small,14
+56,Company 0056,Logistics,Small,21
+57,Company 0057,Manufacturing,Small,11
+58,Company 0058,Logistics,Medium,19
+59,Company 0059,Manufacturing,Medium,18
+60,Company 0060,Logistics,Small,14
+61,Company 0061,Logistics,Small,28
+62,Company 0062,Manufacturing,Medium,13
+63,Company 0063,Healthcare,Large,31
+64,Company 0064,Technology,Medium,11
+65,Company 0065,Healthcare,Medium,35
+66,Company 0066,Manufacturing,Small,15
+67,Company 0067,Retail,Small,2
+68,Company 0068,Construction,Small,6
+69,Company 0069,Retail,Medium,33
+70,Company 0070,Technology,Large,35
+71,Company 0071,Logistics,Large,9
+72,Company 0072,Retail,Large,25
+73,Company 0073,Logistics,Large,23
+74,Company 0074,Manufacturing,Large,6
+75,Company 0075,Retail,Small,19
+76,Company 0076,Logistics,Small,28
+77,Company 0077,Healthcare,Small,39
+78,Company 0078,Retail,Medium,34
+79,Company 0079,Technology,Small,4
+80,Company 0080,Professional Services,Large,10
+81,Company 0081,Professional Services,Medium,18
+82,Company 0082,Logistics,Medium,7
+83,Company 0083,Construction,Small,23
+84,Company 0084,Technology,Small,1
+85,Company 0085,Logistics,Small,5
+86,Company 0086,Logistics,Large,2
+87,Company 0087,Technology,Medium,12
+88,Company 0088,Manufacturing,Medium,31
+89,Company 0089,Retail,Small,8
+90,Company 0090,Professional Services,Small,40
+91,Company 0091,Technology,Small,11
+92,Company 0092,Construction,Medium,2
+93,Company 0093,Construction,Medium,14
+94,Company 0094,Healthcare,Small,30
+95,Company 0095,Manufacturing,Large,5
+96,Company 0096,Manufacturing,Small,3
+97,Company 0097,Retail,Large,34
+98,Company 0098,Construction,Small,24
+99,Company 0099,Logistics,Small,14
+100,Company 0100,Construction,Large,31
+101,Company 0101,Construction,Small,34
+102,Company 0102,Professional Services,Small,15
+103,Company 0103,Retail,Small,23
+104,Company 0104,Logistics,Small,1
+105,Company 0105,Construction,Medium,13
+106,Company 0106,Construction,Large,24
+107,Company 0107,Healthcare,Large,8
+108,Company 0108,Retail,Small,40
+109,Company 0109,Professional Services,Medium,39
+110,Company 0110,Technology,Small,11
+111,Company 0111,Construction,Small,16
+112,Company 0112,Construction,Small,8
+113,Company 0113,Healthcare,Large,21
+114,Company 0114,Construction,Large,5
+115,Company 0115,Retail,Medium,16
+116,Company 0116,Manufacturing,Medium,23
+117,Company 0117,Technology,Medium,25
+118,Company 0118,Healthcare,Medium,24
+119,Company 0119,Manufacturing,Medium,9
+120,Company 0120,Professional Services,Small,32
+121,Company 0121,Construction,Small,28
+122,Company 0122,Manufacturing,Small,31
+123,Company 0123,Technology,Large,19
+124,Company 0124,Construction,Medium,36
+125,Company 0125,Technology,Large,16
+126,Company 0126,Manufacturing,Small,33
+127,Company 0127,Logistics,Medium,9
+128,Company 0128,Logistics,Small,10
+129,Company 0129,Manufacturing,Small,22
+130,Company 0130,Retail,Small,23
+131,Company 0131,Retail,Small,30
+132,Company 0132,Logistics,Large,12
+133,Company 0133,Healthcare,Small,35
+134,Company 0134,Healthcare,Medium,14
+135,Company 0135,Professional Services,Medium,22
+136,Company 0136,Healthcare,Small,38
+137,Company 0137,Technology,Medium,22
+138,Company 0138,Manufacturing,Small,28
+139,Company 0139,Logistics,Large,37
+140,Company 0140,Professional Services,Medium,39
+141,Company 0141,Professional Services,Medium,20
+142,Company 0142,Retail,Medium,17
+143,Company 0143,Retail,Small,8
+144,Company 0144,Manufacturing,Large,22
+145,Company 0145,Manufacturing,Small,37
+146,Company 0146,Construction,Small,20
+147,Company 0147,Construction,Small,14
+148,Company 0148,Technology,Medium,5
+149,Company 0149,Technology,Medium,16
+150,Company 0150,Healthcare,Medium,10
+151,Company 0151,Construction,Medium,40
+152,Company 0152,Healthcare,Small,22
+153,Company 0153,Professional Services,Large,6
+154,Company 0154,Technology,Small,3
+155,Company 0155,Retail,Medium,35
+156,Company 0156,Professional Services,Small,38
+157,Company 0157,Logistics,Large,31
+158,Company 0158,Technology,Small,5
+159,Company 0159,Logistics,Small,4
+160,Company 0160,Construction,Medium,8
+161,Company 0161,Professional Services,Small,31
+162,Company 0162,Retail,Small,31
+163,Company 0163,Professional Services,Medium,34
+164,Company 0164,Professional Services,Small,4
+165,Company 0165,Retail,Large,7
+166,Company 0166,Retail,Small,37
+167,Company 0167,Construction,Medium,38
+168,Company 0168,Manufacturing,Medium,30
+169,Company 0169,Technology,Medium,5
+170,Company 0170,Construction,Medium,3
+171,Company 0171,Professional Services,Medium,3
+172,Company 0172,Professional Services,Large,28
+173,Company 0173,Retail,Small,34
+174,Company 0174,Professional Services,Small,26
+175,Company 0175,Manufacturing,Medium,11
+176,Company 0176,Healthcare,Large,31
+177,Company 0177,Healthcare,Small,3
+178,Company 0178,Professional Services,Small,34
+179,Company 0179,Retail,Large,36
+180,Company 0180,Professional Services,Medium,29
+181,Company 0181,Manufacturing,Large,36
+182,Company 0182,Construction,Medium,24
+183,Company 0183,Construction,Medium,19
+184,Company 0184,Technology,Small,13
+185,Company 0185,Manufacturing,Large,37
+186,Company 0186,Healthcare,Small,28
+187,Company 0187,Technology,Medium,8
+188,Company 0188,Logistics,Small,39
+189,Company 0189,Technology,Medium,3
+190,Company 0190,Technology,Medium,24
+191,Company 0191,Professional Services,Medium,8
+192,Company 0192,Manufacturing,Large,27
+193,Company 0193,Healthcare,Small,17
+194,Company 0194,Healthcare,Medium,18
+195,Company 0195,Technology,Small,27
+196,Company 0196,Retail,Small,31
+197,Company 0197,Manufacturing,Small,16
+198,Company 0198,Professional Services,Small,40
+199,Company 0199,Professional Services,Small,20
+200,Company 0200,Retail,Medium,7
+201,Company 0201,Manufacturing,Medium,1
+202,Company 0202,Manufacturing,Medium,9
+203,Company 0203,Manufacturing,Small,28
+204,Company 0204,Healthcare,Small,22
+205,Company 0205,Professional Services,Small,14
+206,Company 0206,Retail,Medium,20
+207,Company 0207,Healthcare,Large,34
+208,Company 0208,Retail,Small,23
+209,Company 0209,Technology,Medium,3
+210,Company 0210,Logistics,Small,2
+211,Company 0211,Healthcare,Small,20
+212,Company 0212,Professional Services,Small,17
+213,Company 0213,Manufacturing,Small,35
+214,Company 0214,Retail,Medium,24
+215,Company 0215,Retail,Large,31
+216,Company 0216,Technology,Small,24
+217,Company 0217,Professional Services,Medium,14
+218,Company 0218,Healthcare,Medium,27
+219,Company 0219,Technology,Large,25
+220,Company 0220,Professional Services,Medium,29
+221,Company 0221,Construction,Small,8
+222,Company 0222,Construction,Medium,26
+223,Company 0223,Construction,Small,12
+224,Company 0224,Retail,Large,32
+225,Company 0225,Professional Services,Small,32
+226,Company 0226,Manufacturing,Medium,25
+227,Company 0227,Retail,Small,38
+228,Company 0228,Retail,Small,22
+229,Company 0229,Retail,Large,2
+230,Company 0230,Manufacturing,Medium,25
+231,Company 0231,Manufacturing,Small,32
+232,Company 0232,Logistics,Large,5
+233,Company 0233,Professional Services,Large,5
+234,Company 0234,Manufacturing,Small,11
+235,Company 0235,Technology,Medium,34
+236,Company 0236,Construction,Medium,22
+237,Company 0237,Professional Services,Medium,40
+238,Company 0238,Logistics,Small,35
+239,Company 0239,Healthcare,Small,23
+240,Company 0240,Logistics,Large,28
+241,Company 0241,Technology,Large,14
+242,Company 0242,Retail,Large,4
+243,Company 0243,Professional Services,Large,16
+244,Company 0244,Healthcare,Medium,24
+245,Company 0245,Manufacturing,Medium,8
+246,Company 0246,Healthcare,Medium,9
+247,Company 0247,Manufacturing,Medium,1
+248,Company 0248,Healthcare,Medium,30
+249,Company 0249,Healthcare,Small,36
+250,Company 0250,Manufacturing,Medium,34
+251,Company 0251,Construction,Small,16
+252,Company 0252,Manufacturing,Small,24
+253,Company 0253,Construction,Medium,39
+254,Company 0254,Professional Services,Small,24
+255,Company 0255,Manufacturing,Small,12
+256,Company 0256,Technology,Medium,14
+257,Company 0257,Professional Services,Large,30
+258,Company 0258,Technology,Small,18
+259,Company 0259,Manufacturing,Small,34
+260,Company 0260,Construction,Small,35
+261,Company 0261,Construction,Medium,2
+262,Company 0262,Logistics,Large,29
+263,Company 0263,Technology,Small,15
+264,Company 0264,Professional Services,Medium,21
+265,Company 0265,Construction,Small,11
+266,Company 0266,Technology,Small,15
+267,Company 0267,Professional Services,Large,14
+268,Company 0268,Professional Services,Small,3
+269,Company 0269,Construction,Small,32
+270,Company 0270,Manufacturing,Small,6
+271,Company 0271,Logistics,Medium,16
+272,Company 0272,Construction,Large,8
+273,Company 0273,Retail,Large,7
+274,Company 0274,Logistics,Small,15
+275,Company 0275,Healthcare,Small,37
+276,Company 0276,Manufacturing,Medium,38
+277,Company 0277,Healthcare,Small,16
+278,Company 0278,Manufacturing,Large,21
+279,Company 0279,Healthcare,Medium,40
+280,Company 0280,Technology,Small,10
+281,Company 0281,Manufacturing,Large,38
+282,Company 0282,Professional Services,Small,5
+283,Company 0283,Retail,Small,10
+284,Company 0284,Logistics,Medium,14
+285,Company 0285,Retail,Medium,2
+286,Company 0286,Professional Services,Medium,33
+287,Company 0287,Healthcare,Medium,35
+288,Company 0288,Healthcare,Large,16
+289,Company 0289,Construction,Large,34
+290,Company 0290,Construction,Medium,31
+291,Company 0291,Logistics,Small,33
+292,Company 0292,Healthcare,Medium,33
+293,Company 0293,Healthcare,Large,23
+294,Company 0294,Manufacturing,Small,5
+295,Company 0295,Logistics,Medium,37
+296,Company 0296,Manufacturing,Small,25
+297,Company 0297,Technology,Small,37
+298,Company 0298,Healthcare,Medium,39
+299,Company 0299,Retail,Small,8
+300,Company 0300,Healthcare,Medium,17
+301,Company 0301,Construction,Large,8
+302,Company 0302,Retail,Medium,3
+303,Company 0303,Technology,Small,39
+304,Company 0304,Construction,Small,37
+305,Company 0305,Healthcare,Medium,38
+306,Company 0306,Logistics,Medium,36
+307,Company 0307,Professional Services,Medium,26
+308,Company 0308,Professional Services,Large,21
+309,Company 0309,Healthcare,Small,40
+310,Company 0310,Logistics,Large,23
+311,Company 0311,Technology,Small,26
+312,Company 0312,Technology,Small,9
+313,Company 0313,Manufacturing,Medium,30
+314,Company 0314,Technology,Small,33
+315,Company 0315,Professional Services,Small,28
+316,Company 0316,Technology,Small,20
+317,Company 0317,Manufacturing,Small,8
+318,Company 0318,Logistics,Medium,2
+319,Company 0319,Professional Services,Small,26
+320,Company 0320,Professional Services,Medium,28
+321,Company 0321,Retail,Medium,31
+322,Company 0322,Construction,Small,39
+323,Company 0323,Construction,Small,20
+324,Company 0324,Retail,Large,34
+325,Company 0325,Retail,Medium,29
+326,Company 0326,Retail,Medium,12
+327,Company 0327,Professional Services,Medium,34
+328,Company 0328,Healthcare,Small,3
+329,Company 0329,Healthcare,Small,24
+330,Company 0330,Healthcare,Medium,38
+331,Company 0331,Professional Services,Small,27
+332,Company 0332,Manufacturing,Medium,38
+333,Company 0333,Professional Services,Medium,3
+334,Company 0334,Manufacturing,Medium,22
+335,Company 0335,Construction,Medium,32
+336,Company 0336,Logistics,Small,26
+337,Company 0337,Technology,Small,36
+338,Company 0338,Retail,Small,19
+339,Company 0339,Retail,Medium,28
+340,Company 0340,Healthcare,Small,17
+341,Company 0341,Technology,Small,35
+342,Company 0342,Technology,Small,5
+343,Company 0343,Professional Services,Small,11
+344,Company 0344,Retail,Medium,4
+345,Company 0345,Professional Services,Small,29
+346,Company 0346,Professional Services,Large,10
+347,Company 0347,Logistics,Small,13
+348,Company 0348,Retail,Medium,34
+349,Company 0349,Retail,Small,15
+350,Company 0350,Retail,Small,6
+351,Company 0351,Logistics,Large,1
+352,Company 0352,Retail,Large,10
+353,Company 0353,Construction,Large,37
+354,Company 0354,Manufacturing,Small,22
+355,Company 0355,Construction,Small,40
+356,Company 0356,Manufacturing,Medium,9
+357,Company 0357,Logistics,Small,15
+358,Company 0358,Manufacturing,Medium,7
+359,Company 0359,Retail,Medium,16
+360,Company 0360,Retail,Medium,23
+361,Company 0361,Healthcare,Medium,33
+362,Company 0362,Manufacturing,Medium,15
+363,Company 0363,Construction,Small,31
+364,Company 0364,Logistics,Small,26
+365,Company 0365,Construction,Medium,12
+366,Company 0366,Logistics,Medium,37
+367,Company 0367,Healthcare,Small,18
+368,Company 0368,Technology,Small,7
+369,Company 0369,Healthcare,Medium,39
+370,Company 0370,Technology,Medium,37
+371,Company 0371,Professional Services,Medium,2
+372,Company 0372,Construction,Small,37
+373,Company 0373,Healthcare,Small,38
+374,Company 0374,Professional Services,Medium,34
+375,Company 0375,Healthcare,Small,11
+376,Company 0376,Healthcare,Medium,26
+377,Company 0377,Construction,Medium,22
+378,Company 0378,Manufacturing,Small,25
+379,Company 0379,Construction,Small,25
+380,Company 0380,Retail,Small,26
+381,Company 0381,Professional Services,Large,21
+382,Company 0382,Retail,Medium,28
+383,Company 0383,Retail,Small,22
+384,Company 0384,Retail,Large,1
+385,Company 0385,Logistics,Medium,2
+386,Company 0386,Construction,Medium,39
+387,Company 0387,Professional Services,Large,37
+388,Company 0388,Technology,Small,24
+389,Company 0389,Retail,Small,7
+390,Company 0390,Manufacturing,Medium,32
+391,Company 0391,Manufacturing,Small,6
+392,Company 0392,Technology,Medium,16
+393,Company 0393,Professional Services,Small,14
+394,Company 0394,Construction,Small,1
+395,Company 0395,Professional Services,Small,33
+396,Company 0396,Manufacturing,Small,21
+397,Company 0397,Manufacturing,Small,13
+398,Company 0398,Healthcare,Small,21
+399,Company 0399,Manufacturing,Large,1
+400,Company 0400,Manufacturing,Small,18
+401,Company 0401,Technology,Small,21
+402,Company 0402,Professional Services,Small,14
+403,Company 0403,Logistics,Small,34
+404,Company 0404,Manufacturing,Small,10
+405,Company 0405,Healthcare,Medium,6
+406,Company 0406,Healthcare,Small,22
+407,Company 0407,Healthcare,Large,36
+408,Company 0408,Professional Services,Large,16
+409,Company 0409,Retail,Small,2
+410,Company 0410,Professional Services,Small,39
+411,Company 0411,Technology,Small,18
+412,Company 0412,Healthcare,Medium,7
+413,Company 0413,Logistics,Small,25
+414,Company 0414,Healthcare,Large,13
+415,Company 0415,Logistics,Medium,38
+416,Company 0416,Logistics,Medium,12
+417,Company 0417,Logistics,Medium,23
+418,Company 0418,Healthcare,Large,22
+419,Company 0419,Healthcare,Small,10
+420,Company 0420,Manufacturing,Small,20
+421,Company 0421,Healthcare,Small,5
+422,Company 0422,Construction,Large,26
+423,Company 0423,Technology,Medium,31
+424,Company 0424,Construction,Medium,39
+425,Company 0425,Professional Services,Small,14
+426,Company 0426,Professional Services,Large,12
+427,Company 0427,Healthcare,Medium,22
+428,Company 0428,Construction,Medium,28
+429,Company 0429,Healthcare,Large,40
+430,Company 0430,Technology,Small,2
+431,Company 0431,Logistics,Small,10
+432,Company 0432,Logistics,Medium,11
+433,Company 0433,Retail,Small,11
+434,Company 0434,Retail,Small,19
+435,Company 0435,Manufacturing,Small,35
+436,Company 0436,Manufacturing,Small,2
+437,Company 0437,Construction,Large,33
+438,Company 0438,Construction,Medium,25
+439,Company 0439,Retail,Small,25
+440,Company 0440,Technology,Small,28
+441,Company 0441,Logistics,Small,5
+442,Company 0442,Retail,Medium,30
+443,Company 0443,Technology,Large,10
+444,Company 0444,Technology,Large,21
+445,Company 0445,Construction,Small,28
+446,Company 0446,Technology,Small,25
+447,Company 0447,Healthcare,Medium,13
+448,Company 0448,Technology,Medium,16
+449,Company 0449,Construction,Medium,20
+450,Company 0450,Technology,Medium,2
+451,Company 0451,Retail,Medium,30
+452,Company 0452,Logistics,Small,4
+453,Company 0453,Retail,Small,19
+454,Company 0454,Technology,Small,27
+455,Company 0455,Healthcare,Small,4
+456,Company 0456,Professional Services,Small,40
+457,Company 0457,Logistics,Medium,16
+458,Company 0458,Professional Services,Small,1
+459,Company 0459,Healthcare,Small,27
+460,Company 0460,Construction,Medium,23
+461,Company 0461,Healthcare,Medium,26
+462,Company 0462,Technology,Small,31
+463,Company 0463,Construction,Medium,20
+464,Company 0464,Construction,Large,34
+465,Company 0465,Professional Services,Medium,15
+466,Company 0466,Healthcare,Medium,22
+467,Company 0467,Construction,Small,7
+468,Company 0468,Logistics,Large,25
+469,Company 0469,Retail,Small,11
+470,Company 0470,Healthcare,Large,28
+471,Company 0471,Construction,Medium,33
+472,Company 0472,Construction,Small,35
+473,Company 0473,Healthcare,Small,38
+474,Company 0474,Logistics,Medium,5
+475,Company 0475,Manufacturing,Medium,6
+476,Company 0476,Technology,Small,38
+477,Company 0477,Retail,Medium,16
+478,Company 0478,Healthcare,Large,2
+479,Company 0479,Manufacturing,Medium,12
+480,Company 0480,Retail,Medium,34
+481,Company 0481,Logistics,Small,15
+482,Company 0482,Logistics,Medium,4
+483,Company 0483,Construction,Small,29
+484,Company 0484,Professional Services,Large,8
+485,Company 0485,Professional Services,Small,15
+486,Company 0486,Manufacturing,Medium,1
+487,Company 0487,Professional Services,Small,25
+488,Company 0488,Logistics,Small,18
+489,Company 0489,Logistics,Medium,35
+490,Company 0490,Manufacturing,Medium,14
+491,Company 0491,Logistics,Medium,9
+492,Company 0492,Healthcare,Large,7
+493,Company 0493,Logistics,Large,9
+494,Company 0494,Manufacturing,Large,19
+495,Company 0495,Construction,Small,4
+496,Company 0496,Professional Services,Medium,17
+497,Company 0497,Healthcare,Large,35
+498,Company 0498,Manufacturing,Small,31
+499,Company 0499,Professional Services,Small,26
+500,Company 0500,Professional Services,Medium,36
+501,Company 0501,Retail,Medium,32
+502,Company 0502,Healthcare,Medium,27
+503,Company 0503,Technology,Large,35
+504,Company 0504,Logistics,Medium,5
+505,Company 0505,Construction,Small,33
+506,Company 0506,Healthcare,Small,12
+507,Company 0507,Professional Services,Small,30
+508,Company 0508,Healthcare,Small,37
+509,Company 0509,Professional Services,Medium,20
+510,Company 0510,Professional Services,Large,4
+511,Company 0511,Manufacturing,Small,15
+512,Company 0512,Retail,Small,17
+513,Company 0513,Healthcare,Large,38
+514,Company 0514,Logistics,Small,38
+515,Company 0515,Manufacturing,Medium,23
+516,Company 0516,Manufacturing,Medium,39
+517,Company 0517,Construction,Medium,18
+518,Company 0518,Logistics,Small,17
+519,Company 0519,Retail,Medium,34
+520,Company 0520,Retail,Small,27
+521,Company 0521,Manufacturing,Medium,21
+522,Company 0522,Construction,Small,19
+523,Company 0523,Manufacturing,Medium,29
+524,Company 0524,Logistics,Medium,31
+525,Company 0525,Construction,Small,20
+526,Company 0526,Construction,Small,2
+527,Company 0527,Logistics,Small,5
+528,Company 0528,Construction,Small,6
+529,Company 0529,Healthcare,Small,19
+530,Company 0530,Healthcare,Large,25
+531,Company 0531,Professional Services,Small,33
+532,Company 0532,Healthcare,Medium,10
+533,Company 0533,Construction,Large,32
+534,Company 0534,Construction,Small,27
+535,Company 0535,Retail,Medium,3
+536,Company 0536,Logistics,Large,15
+537,Company 0537,Manufacturing,Medium,13
+538,Company 0538,Professional Services,Small,36
+539,Company 0539,Healthcare,Small,37
+540,Company 0540,Manufacturing,Small,33
+541,Company 0541,Healthcare,Medium,22
+542,Company 0542,Manufacturing,Large,20
+543,Company 0543,Healthcare,Large,13
+544,Company 0544,Manufacturing,Small,31
+545,Company 0545,Construction,Medium,4
+546,Company 0546,Logistics,Small,11
+547,Company 0547,Healthcare,Large,6
+548,Company 0548,Technology,Small,20
+549,Company 0549,Professional Services,Large,12
+550,Company 0550,Healthcare,Large,8
+551,Company 0551,Retail,Small,16
+552,Company 0552,Logistics,Small,35
+553,Company 0553,Healthcare,Large,23
+554,Company 0554,Technology,Small,33
+555,Company 0555,Healthcare,Medium,37
+556,Company 0556,Professional Services,Large,37
+557,Company 0557,Healthcare,Medium,15
+558,Company 0558,Healthcare,Small,36
+559,Company 0559,Logistics,Small,37
+560,Company 0560,Retail,Small,39
+561,Company 0561,Healthcare,Large,15
+562,Company 0562,Technology,Small,10
+563,Company 0563,Construction,Small,24
+564,Company 0564,Technology,Small,38
+565,Company 0565,Technology,Large,37
+566,Company 0566,Retail,Small,23
+567,Company 0567,Professional Services,Large,6
+568,Company 0568,Retail,Medium,17
+569,Company 0569,Manufacturing,Large,29
+570,Company 0570,Professional Services,Large,23
+571,Company 0571,Construction,Large,14
+572,Company 0572,Construction,Large,14
+573,Company 0573,Healthcare,Small,3
+574,Company 0574,Technology,Medium,12
+575,Company 0575,Manufacturing,Medium,27
+576,Company 0576,Healthcare,Medium,10
+577,Company 0577,Retail,Large,40
+578,Company 0578,Construction,Large,4
+579,Company 0579,Professional Services,Medium,24
+580,Company 0580,Professional Services,Medium,20
+581,Company 0581,Technology,Medium,34
+582,Company 0582,Healthcare,Small,36
+583,Company 0583,Logistics,Small,22
+584,Company 0584,Construction,Small,26
+585,Company 0585,Manufacturing,Small,28
+586,Company 0586,Technology,Small,21
+587,Company 0587,Logistics,Medium,8
+588,Company 0588,Professional Services,Small,18
+589,Company 0589,Manufacturing,Large,10
+590,Company 0590,Healthcare,Medium,19
+591,Company 0591,Healthcare,Small,25
+592,Company 0592,Professional Services,Small,9
+593,Company 0593,Technology,Small,10
+594,Company 0594,Manufacturing,Large,33
+595,Company 0595,Retail,Small,16
+596,Company 0596,Healthcare,Medium,8
+597,Company 0597,Professional Services,Large,29
+598,Company 0598,Logistics,Large,29
+599,Company 0599,Manufacturing,Small,34
+600,Company 0600,Manufacturing,Small,31
+601,Company 0601,Construction,Small,40
+602,Company 0602,Logistics,Small,23
+603,Company 0603,Manufacturing,Small,12
+604,Company 0604,Logistics,Medium,35
+605,Company 0605,Construction,Large,11
+606,Company 0606,Manufacturing,Medium,12
+607,Company 0607,Manufacturing,Medium,34
+608,Company 0608,Construction,Small,36
+609,Company 0609,Healthcare,Medium,14
+610,Company 0610,Healthcare,Medium,30
+611,Company 0611,Construction,Large,37
+612,Company 0612,Technology,Large,32
+613,Company 0613,Professional Services,Small,1
+614,Company 0614,Construction,Small,27
+615,Company 0615,Technology,Small,7
+616,Company 0616,Construction,Small,34
+617,Company 0617,Manufacturing,Large,3
+618,Company 0618,Technology,Small,40
+619,Company 0619,Construction,Medium,8
+620,Company 0620,Professional Services,Medium,17
+621,Company 0621,Healthcare,Small,10
+622,Company 0622,Healthcare,Small,33
+623,Company 0623,Construction,Medium,16
+624,Company 0624,Manufacturing,Medium,30
+625,Company 0625,Technology,Small,3
+626,Company 0626,Professional Services,Small,19
+627,Company 0627,Manufacturing,Medium,37
+628,Company 0628,Professional Services,Small,38
+629,Company 0629,Logistics,Large,9
+630,Company 0630,Retail,Small,16
+631,Company 0631,Healthcare,Small,17
+632,Company 0632,Healthcare,Medium,23
+633,Company 0633,Manufacturing,Medium,22
+634,Company 0634,Manufacturing,Medium,5
+635,Company 0635,Logistics,Small,31
+636,Company 0636,Professional Services,Large,10
+637,Company 0637,Manufacturing,Medium,13
+638,Company 0638,Logistics,Medium,34
+639,Company 0639,Manufacturing,Small,28
+640,Company 0640,Logistics,Small,16
+641,Company 0641,Logistics,Medium,37
+642,Company 0642,Manufacturing,Small,16
+643,Company 0643,Logistics,Medium,23
+644,Company 0644,Professional Services,Small,10
+645,Company 0645,Professional Services,Large,8
+646,Company 0646,Manufacturing,Medium,20
+647,Company 0647,Retail,Large,23
+648,Company 0648,Retail,Medium,33
+649,Company 0649,Construction,Small,16
+650,Company 0650,Retail,Medium,36
+651,Company 0651,Healthcare,Medium,25
+652,Company 0652,Healthcare,Medium,3
+653,Company 0653,Healthcare,Small,30
+654,Company 0654,Retail,Medium,23
+655,Company 0655,Manufacturing,Large,16
+656,Company 0656,Professional Services,Medium,19
+657,Company 0657,Technology,Small,13
+658,Company 0658,Logistics,Medium,25
+659,Company 0659,Professional Services,Medium,23
+660,Company 0660,Manufacturing,Large,18
+661,Company 0661,Manufacturing,Small,12
+662,Company 0662,Manufacturing,Small,16
+663,Company 0663,Retail,Medium,20
+664,Company 0664,Manufacturing,Medium,19
+665,Company 0665,Healthcare,Medium,13
+666,Company 0666,Logistics,Medium,24
+667,Company 0667,Professional Services,Small,10
+668,Company 0668,Healthcare,Medium,21
+669,Company 0669,Professional Services,Small,5
+670,Company 0670,Retail,Small,19
+671,Company 0671,Technology,Medium,32
+672,Company 0672,Healthcare,Medium,33
+673,Company 0673,Retail,Large,28
+674,Company 0674,Manufacturing,Small,30
+675,Company 0675,Logistics,Small,3
+676,Company 0676,Healthcare,Large,14
+677,Company 0677,Professional Services,Small,27
+678,Company 0678,Professional Services,Small,33
+679,Company 0679,Manufacturing,Small,24
+680,Company 0680,Healthcare,Medium,35
+681,Company 0681,Healthcare,Large,11
+682,Company 0682,Logistics,Medium,7
+683,Company 0683,Healthcare,Medium,4
+684,Company 0684,Healthcare,Small,24
+685,Company 0685,Construction,Small,27
+686,Company 0686,Manufacturing,Medium,12
+687,Company 0687,Construction,Small,32
+688,Company 0688,Retail,Small,30
+689,Company 0689,Manufacturing,Small,15
+690,Company 0690,Manufacturing,Small,10
+691,Company 0691,Logistics,Medium,30
+692,Company 0692,Construction,Medium,27
+693,Company 0693,Construction,Small,7
+694,Company 0694,Healthcare,Medium,11
+695,Company 0695,Construction,Medium,20
+696,Company 0696,Logistics,Medium,21
+697,Company 0697,Manufacturing,Medium,7
+698,Company 0698,Healthcare,Small,38
+699,Company 0699,Construction,Medium,16
+700,Company 0700,Retail,Small,16
+701,Company 0701,Healthcare,Small,3
+702,Company 0702,Healthcare,Small,36
+703,Company 0703,Manufacturing,Medium,10
+704,Company 0704,Retail,Small,40
+705,Company 0705,Manufacturing,Small,20
+706,Company 0706,Retail,Medium,35
+707,Company 0707,Manufacturing,Small,8
+708,Company 0708,Logistics,Small,7
+709,Company 0709,Construction,Small,33
+710,Company 0710,Professional Services,Small,33
+711,Company 0711,Healthcare,Small,22
+712,Company 0712,Logistics,Small,2
+713,Company 0713,Construction,Small,38
+714,Company 0714,Manufacturing,Medium,16
+715,Company 0715,Manufacturing,Large,38
+716,Company 0716,Logistics,Medium,35
+717,Company 0717,Manufacturing,Medium,35
+718,Company 0718,Manufacturing,Large,28
+719,Company 0719,Retail,Large,27
+720,Company 0720,Professional Services,Medium,22
+721,Company 0721,Construction,Large,1
+722,Company 0722,Logistics,Large,16
+723,Company 0723,Technology,Medium,30
+724,Company 0724,Retail,Medium,33
+725,Company 0725,Technology,Small,23
+726,Company 0726,Manufacturing,Small,29
+727,Company 0727,Healthcare,Medium,1
+728,Company 0728,Retail,Medium,19
+729,Company 0729,Technology,Small,21
+730,Company 0730,Professional Services,Medium,36
+731,Company 0731,Logistics,Medium,13
+732,Company 0732,Construction,Large,10
+733,Company 0733,Construction,Small,15
+734,Company 0734,Healthcare,Small,7
+735,Company 0735,Retail,Medium,23
+736,Company 0736,Logistics,Large,26
+737,Company 0737,Professional Services,Large,33
+738,Company 0738,Logistics,Large,39
+739,Company 0739,Construction,Large,3
+740,Company 0740,Retail,Small,10
+741,Company 0741,Retail,Small,13
+742,Company 0742,Professional Services,Small,10
+743,Company 0743,Construction,Medium,34
+744,Company 0744,Technology,Large,6
+745,Company 0745,Technology,Small,2
+746,Company 0746,Logistics,Medium,35
+747,Company 0747,Construction,Small,39
+748,Company 0748,Logistics,Small,10
+749,Company 0749,Retail,Small,14
+750,Company 0750,Logistics,Small,21
+751,Company 0751,Construction,Large,22
+752,Company 0752,Professional Services,Small,40
+753,Company 0753,Retail,Large,17
+754,Company 0754,Retail,Medium,1
+755,Company 0755,Construction,Small,17
+756,Company 0756,Construction,Small,23
+757,Company 0757,Logistics,Medium,21
+758,Company 0758,Technology,Small,21
+759,Company 0759,Professional Services,Large,37
+760,Company 0760,Construction,Small,33
+761,Company 0761,Manufacturing,Medium,11
+762,Company 0762,Manufacturing,Medium,15
+763,Company 0763,Professional Services,Small,27
+764,Company 0764,Manufacturing,Small,17
+765,Company 0765,Professional Services,Large,18
+766,Company 0766,Retail,Small,7
+767,Company 0767,Manufacturing,Small,11
+768,Company 0768,Technology,Small,30
+769,Company 0769,Logistics,Small,34
+770,Company 0770,Technology,Medium,32
+771,Company 0771,Healthcare,Medium,13
+772,Company 0772,Logistics,Small,6
+773,Company 0773,Technology,Large,7
+774,Company 0774,Logistics,Small,16
+775,Company 0775,Professional Services,Small,21
+776,Company 0776,Technology,Medium,36
+777,Company 0777,Retail,Large,36
+778,Company 0778,Technology,Small,1
+779,Company 0779,Healthcare,Small,29
+780,Company 0780,Retail,Medium,12
+781,Company 0781,Professional Services,Medium,8
+782,Company 0782,Logistics,Small,23
+783,Company 0783,Logistics,Small,2
+784,Company 0784,Technology,Medium,14
+785,Company 0785,Professional Services,Small,23
+786,Company 0786,Manufacturing,Small,11
+787,Company 0787,Technology,Small,24
+788,Company 0788,Technology,Small,19
+789,Company 0789,Construction,Medium,32
+790,Company 0790,Construction,Large,8
+791,Company 0791,Retail,Medium,3
+792,Company 0792,Retail,Medium,22
+793,Company 0793,Manufacturing,Large,11
+794,Company 0794,Logistics,Small,29
+795,Company 0795,Technology,Small,4
+796,Company 0796,Construction,Large,24
+797,Company 0797,Logistics,Small,40
+798,Company 0798,Logistics,Medium,4
+799,Company 0799,Construction,Medium,13
+800,Company 0800,Logistics,Small,34
+801,Company 0801,Logistics,Medium,22
+802,Company 0802,Logistics,Small,7
+803,Company 0803,Logistics,Small,9
+804,Company 0804,Technology,Medium,31
+805,Company 0805,Retail,Small,35
+806,Company 0806,Healthcare,Medium,15
+807,Company 0807,Technology,Large,19
+808,Company 0808,Construction,Medium,32
+809,Company 0809,Retail,Small,8
+810,Company 0810,Construction,Small,9
+811,Company 0811,Construction,Small,31
+812,Company 0812,Logistics,Small,8
+813,Company 0813,Construction,Large,31
+814,Company 0814,Technology,Small,20
+815,Company 0815,Professional Services,Small,40
+816,Company 0816,Construction,Large,2
+817,Company 0817,Healthcare,Small,38
+818,Company 0818,Healthcare,Small,10
+819,Company 0819,Construction,Small,2
+820,Company 0820,Professional Services,Medium,29
+821,Company 0821,Manufacturing,Medium,22
+822,Company 0822,Professional Services,Small,34
+823,Company 0823,Healthcare,Large,5
+824,Company 0824,Construction,Large,4
+825,Company 0825,Healthcare,Large,23
+826,Company 0826,Construction,Small,36
+827,Company 0827,Retail,Small,17
+828,Company 0828,Healthcare,Large,32
+829,Company 0829,Retail,Small,37
+830,Company 0830,Technology,Medium,35
+831,Company 0831,Construction,Medium,21
+832,Company 0832,Healthcare,Small,28
+833,Company 0833,Technology,Medium,22
+834,Company 0834,Construction,Large,27
+835,Company 0835,Manufacturing,Medium,23
+836,Company 0836,Manufacturing,Small,22
+837,Company 0837,Manufacturing,Large,18
+838,Company 0838,Manufacturing,Medium,27
+839,Company 0839,Professional Services,Medium,31
+840,Company 0840,Healthcare,Medium,37
+841,Company 0841,Healthcare,Medium,25
+842,Company 0842,Manufacturing,Small,5
+843,Company 0843,Manufacturing,Small,24
+844,Company 0844,Retail,Small,13
+845,Company 0845,Construction,Medium,2
+846,Company 0846,Technology,Medium,3
+847,Company 0847,Construction,Medium,24
+848,Company 0848,Retail,Small,38
+849,Company 0849,Healthcare,Medium,21
+850,Company 0850,Technology,Large,18
+851,Company 0851,Manufacturing,Small,4
+852,Company 0852,Healthcare,Medium,28
+853,Company 0853,Professional Services,Medium,3
+854,Company 0854,Manufacturing,Medium,34
+855,Company 0855,Construction,Small,33
+856,Company 0856,Healthcare,Medium,40
+857,Company 0857,Logistics,Large,12
+858,Company 0858,Healthcare,Medium,7
+859,Company 0859,Technology,Large,12
+860,Company 0860,Technology,Large,32
+861,Company 0861,Logistics,Small,9
+862,Company 0862,Retail,Medium,36
+863,Company 0863,Retail,Medium,7
+864,Company 0864,Logistics,Large,2
+865,Company 0865,Logistics,Small,9
+866,Company 0866,Manufacturing,Small,31
+867,Company 0867,Construction,Large,25
+868,Company 0868,Technology,Small,15
+869,Company 0869,Construction,Medium,27
+870,Company 0870,Professional Services,Small,26
+871,Company 0871,Manufacturing,Large,23
+872,Company 0872,Professional Services,Large,21
+873,Company 0873,Construction,Small,5
+874,Company 0874,Healthcare,Medium,11
+875,Company 0875,Technology,Small,22
+876,Company 0876,Technology,Medium,6
+877,Company 0877,Healthcare,Medium,20
+878,Company 0878,Logistics,Medium,5
+879,Company 0879,Retail,Small,32
+880,Company 0880,Logistics,Small,5
+881,Company 0881,Healthcare,Medium,4
+882,Company 0882,Technology,Medium,26
+883,Company 0883,Professional Services,Medium,9
+884,Company 0884,Logistics,Small,15
+885,Company 0885,Technology,Small,13
+886,Company 0886,Manufacturing,Large,9
+887,Company 0887,Logistics,Small,31
+888,Company 0888,Retail,Small,28
+889,Company 0889,Healthcare,Large,10
+890,Company 0890,Construction,Small,28
+891,Company 0891,Construction,Medium,29
+892,Company 0892,Retail,Small,22
+893,Company 0893,Logistics,Large,24
+894,Company 0894,Retail,Medium,38
+895,Company 0895,Technology,Large,19
+896,Company 0896,Healthcare,Small,16
+897,Company 0897,Professional Services,Medium,22
+898,Company 0898,Professional Services,Medium,34
+899,Company 0899,Professional Services,Small,29
+900,Company 0900,Construction,Small,4
+901,Company 0901,Retail,Small,19
+902,Company 0902,Healthcare,Large,30
+903,Company 0903,Healthcare,Medium,9
+904,Company 0904,Professional Services,Medium,40
+905,Company 0905,Logistics,Medium,33
+906,Company 0906,Manufacturing,Medium,34
+907,Company 0907,Construction,Medium,4
+908,Company 0908,Construction,Small,24
+909,Company 0909,Healthcare,Medium,22
+910,Company 0910,Technology,Small,26
+911,Company 0911,Technology,Large,35
+912,Company 0912,Manufacturing,Medium,15
+913,Company 0913,Healthcare,Small,22
+914,Company 0914,Healthcare,Medium,28
+915,Company 0915,Manufacturing,Small,31
+916,Company 0916,Construction,Large,31
+917,Company 0917,Construction,Large,14
+918,Company 0918,Construction,Large,40
+919,Company 0919,Professional Services,Small,1
+920,Company 0920,Retail,Small,20
+921,Company 0921,Technology,Small,25
+922,Company 0922,Retail,Small,3
+923,Company 0923,Retail,Small,19
+924,Company 0924,Professional Services,Small,24
+925,Company 0925,Professional Services,Large,25
+926,Company 0926,Manufacturing,Small,5
+927,Company 0927,Logistics,Small,12
+928,Company 0928,Retail,Medium,10
+929,Company 0929,Retail,Medium,26
+930,Company 0930,Technology,Medium,14
+931,Company 0931,Retail,Medium,23
+932,Company 0932,Construction,Large,30
+933,Company 0933,Professional Services,Medium,32
+934,Company 0934,Logistics,Medium,8
+935,Company 0935,Healthcare,Medium,37
+936,Company 0936,Construction,Small,7
+937,Company 0937,Manufacturing,Small,1
+938,Company 0938,Manufacturing,Medium,2
+939,Company 0939,Retail,Small,9
+940,Company 0940,Retail,Medium,35
+941,Company 0941,Healthcare,Small,9
+942,Company 0942,Healthcare,Small,28
+943,Company 0943,Healthcare,Small,17
+944,Company 0944,Logistics,Large,2
+945,Company 0945,Construction,Small,18
+946,Company 0946,Logistics,Medium,2
+947,Company 0947,Technology,Large,20
+948,Company 0948,Logistics,Small,23
+949,Company 0949,Healthcare,Medium,21
+950,Company 0950,Healthcare,Small,12
+951,Company 0951,Logistics,Small,31
+952,Company 0952,Manufacturing,Medium,24
+953,Company 0953,Healthcare,Large,11
+954,Company 0954,Technology,Small,18
+955,Company 0955,Healthcare,Medium,5
+956,Company 0956,Construction,Small,37
+957,Company 0957,Professional Services,Medium,31
+958,Company 0958,Technology,Medium,12
+959,Company 0959,Professional Services,Medium,27
+960,Company 0960,Healthcare,Medium,28
+961,Company 0961,Technology,Small,25
+962,Company 0962,Construction,Medium,3
+963,Company 0963,Construction,Medium,36
+964,Company 0964,Healthcare,Medium,39
+965,Company 0965,Logistics,Small,39
+966,Company 0966,Healthcare,Small,40
+967,Company 0967,Technology,Small,38
+968,Company 0968,Construction,Small,30
+969,Company 0969,Construction,Small,3
+970,Company 0970,Professional Services,Small,19
+971,Company 0971,Technology,Medium,10
+972,Company 0972,Logistics,Small,9
+973,Company 0973,Manufacturing,Medium,34
+974,Company 0974,Healthcare,Medium,33
+975,Company 0975,Technology,Medium,21
+976,Company 0976,Technology,Medium,30
+977,Company 0977,Logistics,Medium,6
+978,Company 0978,Construction,Medium,9
+979,Company 0979,Healthcare,Large,35
+980,Company 0980,Construction,Medium,19
+981,Company 0981,Construction,Medium,22
+982,Company 0982,Manufacturing,Medium,19
+983,Company 0983,Manufacturing,Medium,9
+984,Company 0984,Technology,Small,34
+985,Company 0985,Professional Services,Medium,31
+986,Company 0986,Professional Services,Medium,28
+987,Company 0987,Logistics,Large,15
+988,Company 0988,Logistics,Medium,26
+989,Company 0989,Technology,Medium,39
+990,Company 0990,Retail,Large,26
+991,Company 0991,Manufacturing,Medium,20
+992,Company 0992,Technology,Small,11
+993,Company 0993,Technology,Small,21
+994,Company 0994,Retail,Small,15
+995,Company 0995,Retail,Small,25
+996,Company 0996,Manufacturing,Small,2
+997,Company 0997,Logistics,Medium,8
+998,Company 0998,Professional Services,Medium,32
+999,Company 0999,Logistics,Small,16
+1000,Company 1000,Construction,Medium,18
+1001,Company 1001,Technology,Small,22
+1002,Company 1002,Technology,Large,18
+1003,Company 1003,Manufacturing,Small,31
+1004,Company 1004,Logistics,Medium,10
+1005,Company 1005,Construction,Small,31
+1006,Company 1006,Manufacturing,Medium,9
+1007,Company 1007,Technology,Small,15
+1008,Company 1008,Retail,Medium,24
+1009,Company 1009,Retail,Small,36
+1010,Company 1010,Logistics,Large,10
+1011,Company 1011,Construction,Medium,24
+1012,Company 1012,Logistics,Medium,3
+1013,Company 1013,Logistics,Large,4
+1014,Company 1014,Professional Services,Large,31
+1015,Company 1015,Healthcare,Small,29
+1016,Company 1016,Logistics,Small,16
+1017,Company 1017,Professional Services,Small,25
+1018,Company 1018,Construction,Small,16
+1019,Company 1019,Professional Services,Medium,12
+1020,Company 1020,Healthcare,Large,18
+1021,Company 1021,Logistics,Large,13
+1022,Company 1022,Professional Services,Medium,33
+1023,Company 1023,Construction,Medium,17
+1024,Company 1024,Healthcare,Large,13
+1025,Company 1025,Retail,Large,22
+1026,Company 1026,Professional Services,Small,31
+1027,Company 1027,Logistics,Medium,11
+1028,Company 1028,Healthcare,Large,38
+1029,Company 1029,Construction,Small,19
+1030,Company 1030,Professional Services,Small,27
+1031,Company 1031,Manufacturing,Large,39
+1032,Company 1032,Manufacturing,Large,18
+1033,Company 1033,Construction,Large,8
+1034,Company 1034,Healthcare,Medium,30
+1035,Company 1035,Healthcare,Small,1
+1036,Company 1036,Construction,Small,19
+1037,Company 1037,Logistics,Medium,40
+1038,Company 1038,Construction,Medium,17
+1039,Company 1039,Professional Services,Medium,28
+1040,Company 1040,Logistics,Medium,22
+1041,Company 1041,Technology,Small,9
+1042,Company 1042,Professional Services,Medium,13
+1043,Company 1043,Manufacturing,Small,21
+1044,Company 1044,Professional Services,Small,5
+1045,Company 1045,Retail,Small,17
+1046,Company 1046,Technology,Small,17
+1047,Company 1047,Healthcare,Large,34
+1048,Company 1048,Healthcare,Small,5
+1049,Company 1049,Professional Services,Small,34
+1050,Company 1050,Healthcare,Medium,17
+1051,Company 1051,Logistics,Medium,27
+1052,Company 1052,Technology,Small,23
+1053,Company 1053,Manufacturing,Small,12
+1054,Company 1054,Manufacturing,Small,38
+1055,Company 1055,Technology,Medium,9
+1056,Company 1056,Manufacturing,Small,2
+1057,Company 1057,Construction,Small,31
+1058,Company 1058,Healthcare,Small,25
+1059,Company 1059,Professional Services,Medium,36
+1060,Company 1060,Construction,Small,19
+1061,Company 1061,Professional Services,Large,1
+1062,Company 1062,Professional Services,Small,1
+1063,Company 1063,Professional Services,Medium,18
+1064,Company 1064,Construction,Small,10
+1065,Company 1065,Technology,Small,37
+1066,Company 1066,Professional Services,Small,5
+1067,Company 1067,Retail,Medium,36
+1068,Company 1068,Technology,Large,9
+1069,Company 1069,Manufacturing,Small,5
+1070,Company 1070,Healthcare,Small,11
+1071,Company 1071,Logistics,Large,6
+1072,Company 1072,Manufacturing,Medium,17
+1073,Company 1073,Retail,Small,14
+1074,Company 1074,Construction,Small,22
+1075,Company 1075,Construction,Medium,22
+1076,Company 1076,Healthcare,Medium,1
+1077,Company 1077,Retail,Medium,5
+1078,Company 1078,Professional Services,Large,7
+1079,Company 1079,Construction,Medium,8
+1080,Company 1080,Healthcare,Small,4
+1081,Company 1081,Retail,Medium,13
+1082,Company 1082,Manufacturing,Small,22
+1083,Company 1083,Manufacturing,Small,13
+1084,Company 1084,Technology,Small,14
+1085,Company 1085,Professional Services,Small,19
+1086,Company 1086,Manufacturing,Medium,22
+1087,Company 1087,Technology,Small,14
+1088,Company 1088,Manufacturing,Small,9
+1089,Company 1089,Professional Services,Medium,17
+1090,Company 1090,Logistics,Medium,1
+1091,Company 1091,Healthcare,Medium,20
+1092,Company 1092,Logistics,Medium,38
+1093,Company 1093,Logistics,Medium,16
+1094,Company 1094,Healthcare,Small,5
+1095,Company 1095,Manufacturing,Medium,29
+1096,Company 1096,Professional Services,Medium,6
+1097,Company 1097,Healthcare,Small,8
+1098,Company 1098,Healthcare,Small,6
+1099,Company 1099,Technology,Small,36
+1100,Company 1100,Healthcare,Medium,40
+1101,Company 1101,Technology,Small,23
+1102,Company 1102,Manufacturing,Small,25
+1103,Company 1103,Professional Services,Medium,26
+1104,Company 1104,Retail,Large,25
+1105,Company 1105,Manufacturing,Small,22
+1106,Company 1106,Logistics,Large,40
+1107,Company 1107,Retail,Small,30
+1108,Company 1108,Professional Services,Large,4
+1109,Company 1109,Construction,Large,16
+1110,Company 1110,Manufacturing,Small,39
+1111,Company 1111,Professional Services,Medium,17
+1112,Company 1112,Construction,Large,9
+1113,Company 1113,Retail,Large,35
+1114,Company 1114,Logistics,Large,25
+1115,Company 1115,Construction,Medium,23
+1116,Company 1116,Manufacturing,Small,17
+1117,Company 1117,Healthcare,Large,5
+1118,Company 1118,Technology,Medium,16
+1119,Company 1119,Logistics,Medium,18
+1120,Company 1120,Professional Services,Small,38
+1121,Company 1121,Logistics,Medium,13
+1122,Company 1122,Logistics,Small,6
+1123,Company 1123,Retail,Medium,18
+1124,Company 1124,Retail,Small,40
+1125,Company 1125,Technology,Medium,20
+1126,Company 1126,Healthcare,Large,16
+1127,Company 1127,Construction,Medium,27
+1128,Company 1128,Technology,Medium,26
+1129,Company 1129,Healthcare,Small,12
+1130,Company 1130,Healthcare,Large,39
+1131,Company 1131,Professional Services,Medium,24
+1132,Company 1132,Technology,Small,3
+1133,Company 1133,Logistics,Small,17
+1134,Company 1134,Logistics,Small,37
+1135,Company 1135,Construction,Medium,16
+1136,Company 1136,Technology,Large,23
+1137,Company 1137,Manufacturing,Medium,25
+1138,Company 1138,Retail,Small,29
+1139,Company 1139,Construction,Large,35
+1140,Company 1140,Professional Services,Small,6
+1141,Company 1141,Professional Services,Large,21
+1142,Company 1142,Retail,Small,22
+1143,Company 1143,Logistics,Medium,7
+1144,Company 1144,Manufacturing,Large,27
+1145,Company 1145,Logistics,Small,5
+1146,Company 1146,Technology,Medium,19
+1147,Company 1147,Construction,Large,14
+1148,Company 1148,Healthcare,Small,7
+1149,Company 1149,Technology,Small,33
+1150,Company 1150,Healthcare,Medium,10
+1151,Company 1151,Construction,Small,11
+1152,Company 1152,Professional Services,Small,35
+1153,Company 1153,Logistics,Medium,36
+1154,Company 1154,Technology,Medium,2
+1155,Company 1155,Healthcare,Small,12
+1156,Company 1156,Technology,Small,29
+1157,Company 1157,Construction,Large,32
+1158,Company 1158,Manufacturing,Medium,40
+1159,Company 1159,Manufacturing,Large,23
+1160,Company 1160,Logistics,Small,1
+1161,Company 1161,Retail,Large,35
+1162,Company 1162,Professional Services,Medium,7
+1163,Company 1163,Healthcare,Small,5
+1164,Company 1164,Logistics,Large,27
+1165,Company 1165,Healthcare,Medium,25
+1166,Company 1166,Logistics,Small,3
+1167,Company 1167,Manufacturing,Small,7
+1168,Company 1168,Technology,Medium,24
+1169,Company 1169,Construction,Small,11
+1170,Company 1170,Professional Services,Small,28
+1171,Company 1171,Retail,Small,17
+1172,Company 1172,Construction,Small,24
+1173,Company 1173,Technology,Small,19
+1174,Company 1174,Manufacturing,Medium,15
+1175,Company 1175,Manufacturing,Small,14
+1176,Company 1176,Technology,Small,28
+1177,Company 1177,Manufacturing,Medium,21
+1178,Company 1178,Manufacturing,Small,24
+1179,Company 1179,Technology,Medium,24
+1180,Company 1180,Retail,Small,9
+1181,Company 1181,Construction,Small,37
+1182,Company 1182,Manufacturing,Small,23
+1183,Company 1183,Technology,Medium,29
+1184,Company 1184,Construction,Small,36
+1185,Company 1185,Professional Services,Medium,37
+1186,Company 1186,Logistics,Small,27
+1187,Company 1187,Professional Services,Medium,32
+1188,Company 1188,Technology,Medium,19
+1189,Company 1189,Construction,Small,30
+1190,Company 1190,Technology,Medium,13
+1191,Company 1191,Professional Services,Small,29
+1192,Company 1192,Professional Services,Small,4
+1193,Company 1193,Professional Services,Small,37
+1194,Company 1194,Healthcare,Medium,10
+1195,Company 1195,Construction,Large,27
+1196,Company 1196,Construction,Small,1
+1197,Company 1197,Professional Services,Medium,7
+1198,Company 1198,Retail,Medium,40
+1199,Company 1199,Technology,Small,34
+1200,Company 1200,Professional Services,Medium,9
+1201,Company 1201,Technology,Medium,6
+1202,Company 1202,Retail,Large,33
+1203,Company 1203,Construction,Large,40
+1204,Company 1204,Technology,Small,7
+1205,Company 1205,Professional Services,Small,27
+1206,Company 1206,Professional Services,Medium,12
+1207,Company 1207,Technology,Small,30
+1208,Company 1208,Construction,Small,17
+1209,Company 1209,Professional Services,Large,6
+1210,Company 1210,Healthcare,Small,13
+1211,Company 1211,Retail,Medium,22
+1212,Company 1212,Logistics,Large,32
+1213,Company 1213,Logistics,Small,1
+1214,Company 1214,Logistics,Medium,39
+1215,Company 1215,Manufacturing,Large,26
+1216,Company 1216,Technology,Medium,36
+1217,Company 1217,Healthcare,Small,38
+1218,Company 1218,Retail,Small,7
+1219,Company 1219,Technology,Large,4
+1220,Company 1220,Technology,Small,32
+1221,Company 1221,Retail,Medium,8
+1222,Company 1222,Retail,Small,6
+1223,Company 1223,Technology,Small,19
+1224,Company 1224,Professional Services,Large,37
+1225,Company 1225,Manufacturing,Medium,32
+1226,Company 1226,Retail,Large,21
+1227,Company 1227,Manufacturing,Small,8
+1228,Company 1228,Construction,Medium,14
+1229,Company 1229,Retail,Large,28
+1230,Company 1230,Healthcare,Small,7
+1231,Company 1231,Logistics,Small,21
+1232,Company 1232,Healthcare,Large,1
+1233,Company 1233,Logistics,Small,14
+1234,Company 1234,Construction,Medium,10
+1235,Company 1235,Professional Services,Large,28
+1236,Company 1236,Construction,Small,37
+1237,Company 1237,Professional Services,Small,6
+1238,Company 1238,Professional Services,Small,32
+1239,Company 1239,Logistics,Small,27
+1240,Company 1240,Logistics,Small,39
+1241,Company 1241,Retail,Medium,37
+1242,Company 1242,Healthcare,Small,5
+1243,Company 1243,Logistics,Medium,30
+1244,Company 1244,Professional Services,Small,24
+1245,Company 1245,Retail,Small,5
+1246,Company 1246,Healthcare,Small,11
+1247,Company 1247,Construction,Medium,38
+1248,Company 1248,Retail,Medium,22
+1249,Company 1249,Retail,Small,14
+1250,Company 1250,Construction,Large,13
+1251,Company 1251,Technology,Medium,34
+1252,Company 1252,Manufacturing,Small,12
+1253,Company 1253,Technology,Large,7
+1254,Company 1254,Logistics,Small,23
+1255,Company 1255,Technology,Small,40
+1256,Company 1256,Professional Services,Medium,8
+1257,Company 1257,Healthcare,Small,11
+1258,Company 1258,Construction,Small,19
+1259,Company 1259,Professional Services,Medium,8
+1260,Company 1260,Construction,Small,27
+1261,Company 1261,Manufacturing,Medium,11
+1262,Company 1262,Manufacturing,Large,6
+1263,Company 1263,Professional Services,Medium,11
+1264,Company 1264,Professional Services,Medium,38
+1265,Company 1265,Healthcare,Medium,38
+1266,Company 1266,Manufacturing,Large,21
+1267,Company 1267,Technology,Small,17
+1268,Company 1268,Manufacturing,Small,33
+1269,Company 1269,Manufacturing,Medium,8
+1270,Company 1270,Retail,Medium,27
+1271,Company 1271,Logistics,Small,28
+1272,Company 1272,Manufacturing,Medium,29
+1273,Company 1273,Professional Services,Small,9
+1274,Company 1274,Construction,Large,29
+1275,Company 1275,Retail,Small,25
+1276,Company 1276,Construction,Small,36
+1277,Company 1277,Healthcare,Small,7
+1278,Company 1278,Technology,Small,25
+1279,Company 1279,Manufacturing,Small,34
+1280,Company 1280,Manufacturing,Small,12
+1281,Company 1281,Healthcare,Small,30
+1282,Company 1282,Manufacturing,Small,4
+1283,Company 1283,Logistics,Small,29
+1284,Company 1284,Technology,Small,25
+1285,Company 1285,Healthcare,Small,8
+1286,Company 1286,Manufacturing,Small,3
+1287,Company 1287,Professional Services,Small,30
+1288,Company 1288,Logistics,Small,10
+1289,Company 1289,Construction,Small,20
+1290,Company 1290,Retail,Medium,3
+1291,Company 1291,Professional Services,Large,39
+1292,Company 1292,Technology,Large,22
+1293,Company 1293,Construction,Medium,38
+1294,Company 1294,Technology,Medium,7
+1295,Company 1295,Retail,Small,9
+1296,Company 1296,Technology,Medium,25
+1297,Company 1297,Retail,Medium,25
+1298,Company 1298,Manufacturing,Large,32
+1299,Company 1299,Technology,Large,38
+1300,Company 1300,Manufacturing,Small,33
+1301,Company 1301,Technology,Medium,6
+1302,Company 1302,Professional Services,Medium,13
+1303,Company 1303,Retail,Small,37
+1304,Company 1304,Manufacturing,Large,22
+1305,Company 1305,Manufacturing,Small,35
+1306,Company 1306,Construction,Large,23
+1307,Company 1307,Retail,Medium,2
+1308,Company 1308,Construction,Small,19
+1309,Company 1309,Manufacturing,Medium,33
+1310,Company 1310,Technology,Small,27
+1311,Company 1311,Technology,Medium,6
+1312,Company 1312,Construction,Medium,9
+1313,Company 1313,Construction,Medium,35
+1314,Company 1314,Healthcare,Large,40
+1315,Company 1315,Construction,Small,31
+1316,Company 1316,Healthcare,Small,4
+1317,Company 1317,Construction,Small,25
+1318,Company 1318,Retail,Small,34
+1319,Company 1319,Retail,Small,26
+1320,Company 1320,Technology,Small,24
+1321,Company 1321,Logistics,Small,19
+1322,Company 1322,Retail,Small,10
+1323,Company 1323,Professional Services,Large,12
+1324,Company 1324,Construction,Small,30
+1325,Company 1325,Professional Services,Large,3
+1326,Company 1326,Logistics,Small,4
+1327,Company 1327,Technology,Small,16
+1328,Company 1328,Retail,Medium,31
+1329,Company 1329,Healthcare,Small,27
+1330,Company 1330,Technology,Small,24
+1331,Company 1331,Retail,Medium,22
+1332,Company 1332,Professional Services,Small,5
+1333,Company 1333,Construction,Small,14
+1334,Company 1334,Manufacturing,Medium,4
+1335,Company 1335,Construction,Small,31
+1336,Company 1336,Construction,Medium,31
+1337,Company 1337,Professional Services,Small,11
+1338,Company 1338,Logistics,Large,12
+1339,Company 1339,Retail,Medium,13
+1340,Company 1340,Retail,Large,36
+1341,Company 1341,Logistics,Large,20
+1342,Company 1342,Manufacturing,Small,31
+1343,Company 1343,Technology,Medium,18
+1344,Company 1344,Manufacturing,Small,28
+1345,Company 1345,Manufacturing,Medium,22
+1346,Company 1346,Professional Services,Medium,12
+1347,Company 1347,Manufacturing,Small,36
+1348,Company 1348,Manufacturing,Large,29
+1349,Company 1349,Professional Services,Small,31
+1350,Company 1350,Retail,Medium,38
+1351,Company 1351,Healthcare,Medium,10
+1352,Company 1352,Manufacturing,Small,4
+1353,Company 1353,Retail,Medium,24
+1354,Company 1354,Manufacturing,Medium,14
+1355,Company 1355,Logistics,Small,18
+1356,Company 1356,Logistics,Medium,10
+1357,Company 1357,Construction,Small,16
+1358,Company 1358,Retail,Medium,16
+1359,Company 1359,Manufacturing,Small,15
+1360,Company 1360,Construction,Large,30
+1361,Company 1361,Retail,Large,24
+1362,Company 1362,Logistics,Small,19
+1363,Company 1363,Logistics,Small,5
+1364,Company 1364,Healthcare,Medium,23
+1365,Company 1365,Construction,Medium,8
+1366,Company 1366,Manufacturing,Small,13
+1367,Company 1367,Retail,Small,17
+1368,Company 1368,Healthcare,Small,6
+1369,Company 1369,Construction,Large,16
+1370,Company 1370,Logistics,Medium,11
+1371,Company 1371,Construction,Large,34
+1372,Company 1372,Retail,Medium,35
+1373,Company 1373,Professional Services,Large,1
+1374,Company 1374,Healthcare,Small,25
+1375,Company 1375,Professional Services,Small,26
+1376,Company 1376,Healthcare,Large,16
+1377,Company 1377,Technology,Large,19
+1378,Company 1378,Retail,Small,32
+1379,Company 1379,Retail,Small,16
+1380,Company 1380,Professional Services,Medium,3
+1381,Company 1381,Construction,Small,15
+1382,Company 1382,Construction,Small,11
+1383,Company 1383,Professional Services,Large,16
+1384,Company 1384,Logistics,Small,10
+1385,Company 1385,Professional Services,Medium,6
+1386,Company 1386,Professional Services,Small,40
+1387,Company 1387,Manufacturing,Small,6
+1388,Company 1388,Technology,Medium,29
+1389,Company 1389,Healthcare,Small,29
+1390,Company 1390,Healthcare,Medium,25
+1391,Company 1391,Retail,Small,37
+1392,Company 1392,Technology,Large,1
+1393,Company 1393,Construction,Medium,13
+1394,Company 1394,Healthcare,Large,8
+1395,Company 1395,Manufacturing,Small,24
+1396,Company 1396,Logistics,Small,26
+1397,Company 1397,Technology,Small,36
+1398,Company 1398,Retail,Medium,16
+1399,Company 1399,Construction,Small,10
+1400,Company 1400,Technology,Small,37
+1401,Company 1401,Logistics,Small,27
+1402,Company 1402,Technology,Small,31
+1403,Company 1403,Healthcare,Small,18
+1404,Company 1404,Manufacturing,Small,18
+1405,Company 1405,Professional Services,Small,16
+1406,Company 1406,Manufacturing,Medium,30
+1407,Company 1407,Healthcare,Small,9
+1408,Company 1408,Technology,Small,40
+1409,Company 1409,Technology,Medium,8
+1410,Company 1410,Manufacturing,Medium,19
+1411,Company 1411,Logistics,Small,13
+1412,Company 1412,Retail,Medium,26
+1413,Company 1413,Logistics,Large,28
+1414,Company 1414,Healthcare,Medium,37
+1415,Company 1415,Healthcare,Large,32
+1416,Company 1416,Logistics,Medium,10
+1417,Company 1417,Technology,Small,9
+1418,Company 1418,Healthcare,Small,36
+1419,Company 1419,Healthcare,Medium,20
+1420,Company 1420,Technology,Large,4
+1421,Company 1421,Manufacturing,Medium,33
+1422,Company 1422,Professional Services,Small,26
+1423,Company 1423,Retail,Medium,2
+1424,Company 1424,Logistics,Small,32
+1425,Company 1425,Retail,Medium,25
+1426,Company 1426,Manufacturing,Medium,25
+1427,Company 1427,Healthcare,Medium,35
+1428,Company 1428,Retail,Large,20
+1429,Company 1429,Logistics,Medium,19
+1430,Company 1430,Logistics,Medium,25
+1431,Company 1431,Manufacturing,Medium,8
+1432,Company 1432,Retail,Large,7
+1433,Company 1433,Healthcare,Large,34
+1434,Company 1434,Construction,Small,9
+1435,Company 1435,Manufacturing,Medium,21
+1436,Company 1436,Professional Services,Small,11
+1437,Company 1437,Retail,Large,10
+1438,Company 1438,Manufacturing,Medium,24
+1439,Company 1439,Professional Services,Small,33
+1440,Company 1440,Manufacturing,Small,18
+1441,Company 1441,Construction,Small,6
+1442,Company 1442,Professional Services,Medium,10
+1443,Company 1443,Logistics,Small,7
+1444,Company 1444,Logistics,Small,36
+1445,Company 1445,Technology,Large,13
+1446,Company 1446,Manufacturing,Medium,15
+1447,Company 1447,Logistics,Small,3
+1448,Company 1448,Professional Services,Small,18
+1449,Company 1449,Manufacturing,Large,37
+1450,Company 1450,Professional Services,Medium,17
+1451,Company 1451,Technology,Medium,27
+1452,Company 1452,Construction,Small,8
+1453,Company 1453,Retail,Small,6
+1454,Company 1454,Logistics,Small,30
+1455,Company 1455,Retail,Medium,3
+1456,Company 1456,Retail,Small,18
+1457,Company 1457,Healthcare,Small,13
+1458,Company 1458,Manufacturing,Medium,1
+1459,Company 1459,Construction,Large,22
+1460,Company 1460,Logistics,Medium,39
+1461,Company 1461,Manufacturing,Medium,3
+1462,Company 1462,Technology,Medium,33
+1463,Company 1463,Technology,Small,22
+1464,Company 1464,Logistics,Small,29
+1465,Company 1465,Professional Services,Medium,4
+1466,Company 1466,Healthcare,Small,35
+1467,Company 1467,Retail,Medium,1
+1468,Company 1468,Manufacturing,Large,37
+1469,Company 1469,Manufacturing,Large,27
+1470,Company 1470,Logistics,Small,14
+1471,Company 1471,Retail,Small,1
+1472,Company 1472,Retail,Small,25
+1473,Company 1473,Healthcare,Small,4
+1474,Company 1474,Professional Services,Small,25
+1475,Company 1475,Healthcare,Small,31
+1476,Company 1476,Retail,Medium,11
+1477,Company 1477,Logistics,Medium,10
+1478,Company 1478,Logistics,Large,9
+1479,Company 1479,Retail,Small,9
+1480,Company 1480,Construction,Small,5
+1481,Company 1481,Construction,Small,10
+1482,Company 1482,Technology,Small,27
+1483,Company 1483,Healthcare,Small,13
+1484,Company 1484,Logistics,Large,32
+1485,Company 1485,Construction,Small,33
+1486,Company 1486,Healthcare,Small,31
+1487,Company 1487,Healthcare,Medium,22
+1488,Company 1488,Construction,Medium,13
+1489,Company 1489,Retail,Medium,38
+1490,Company 1490,Healthcare,Small,9
+1491,Company 1491,Healthcare,Medium,19
+1492,Company 1492,Professional Services,Small,19
+1493,Company 1493,Retail,Small,30
+1494,Company 1494,Technology,Medium,22
+1495,Company 1495,Professional Services,Large,32
+1496,Company 1496,Construction,Small,37
+1497,Company 1497,Professional Services,Medium,16
+1498,Company 1498,Manufacturing,Small,35
+1499,Company 1499,Manufacturing,Small,7
+1500,Company 1500,Healthcare,Small,37

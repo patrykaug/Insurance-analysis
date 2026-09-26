@@ -1,0 +1,41 @@
+location_id,country,city,region,risk_zone
+1,United Kingdom,London,South East,Medium
+2,Spain,Seville,Andalusia,High
+3,Netherlands,Utrecht,Utrecht,Medium
+4,France,Lyon,Auvergne-Rhône-Alpes,Low
+5,France,Paris,Île-de-France,High
+6,Italy,Bologna,Emilia-Romagna,High
+7,United Kingdom,Birmingham,Midlands,Medium
+8,Spain,Seville,Andalusia,Low
+9,Germany,Frankfurt,Hesse,Medium
+10,United Kingdom,Bristol,South West,Low
+11,Netherlands,Eindhoven,North Brabant,Low
+12,Italy,Milan,Lombardy,Low
+13,Spain,Barcelona,Catalonia,Medium
+14,Spain,Barcelona,Catalonia,Medium
+15,Spain,Barcelona,Catalonia,Medium
+16,Spain,Madrid,Community of Madrid,Medium
+17,Netherlands,Utrecht,Utrecht,Medium
+18,United Kingdom,London,South East,Medium
+19,Italy,Turin,Piedmont,Low
+20,France,Toulouse,Occitanie,Low
+21,Netherlands,Eindhoven,North Brabant,Medium
+22,France,Toulouse,Occitanie,Medium
+23,Germany,Munich,Bavaria,Medium
+24,Italy,Bologna,Emilia-Romagna,Medium
+25,Spain,Barcelona,Catalonia,Medium
+26,Netherlands,Rotterdam,South Holland,Medium
+27,France,Lille,Hauts-de-France,Medium
+28,Spain,Barcelona,Catalonia,Low
+29,Netherlands,Amsterdam,North Holland,Low
+30,France,Marseille,Provence-Alpes-Côte d’Azur,Medium
+31,France,Toulouse,Occitanie,Low
+32,Germany,Berlin,Berlin,Medium
+33,United Kingdom,Birmingham,Midlands,High
+34,Netherlands,Amsterdam,North Holland,Low
+35,Italy,Turin,Piedmont,Low
+36,United Kingdom,Birmingham,Midlands,Low
+37,Italy,Rome,Lazio,Low
+38,Spain,Madrid,Community of Madrid,Medium
+39,Germany,Hamburg,Hamburg,Medium
+40,Netherlands,Utrecht,Utrecht,Medium
